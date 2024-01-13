@@ -49,5 +49,8 @@ Client use the component class interface to interact with objects in the composi
 
 Real Life example
 
-In an organization, It have general managers and under general managers, there can be managers and under managers there can be developers. Now you can set a tree structure and ask each node to perform common operation like getSalary(). Composite design pattern treats each node in two ways: 1)
+In an organization, It have general managers and under general managers, there can be managers and under managers there can be developers. Now you can set a tree structure and ask each node to perform common operation like getSalary().
 ![image](https://github.com/shwetank04/System-Design/assets/56911869/e8efa5b6-e0b6-4955-9443-0ac8d960ef28)
+
+
+
