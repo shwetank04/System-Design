@@ -36,3 +36,15 @@ public class SportsVechile extends Vechile {
 		super(new SportsDrive());
 	}
 }
+
+package main;
+
+public class SportsDrive implements DriveStrategy {
+
+	@Override
+	public void drive() {
+		System.out.println("Sports Drive Strategy");
+	}
+
+}
+
